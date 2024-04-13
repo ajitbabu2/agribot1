@@ -5,7 +5,6 @@ import os
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 import google.generativeai as genai
 import time
-from streamlit_mic_recorder import mic_recorder
 from googletrans import Translator
 
 import speech_recognition as sr
