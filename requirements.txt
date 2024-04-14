@@ -6,6 +6,6 @@ PyPDF2
 chromadb
 faiss-cpu
 langchain_google_genai
-speech_recognition
+SpeechRecognition==3.10.3
 pyaudio
 googletrans==3.1.0a0
